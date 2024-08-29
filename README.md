@@ -1,19 +1,13 @@
-# blog
+# [Build a Blog usign Strapi, Vue and Tailwind]()
+![Screenshot 2024-08-29 110042](https://github.com/user-attachments/assets/0dd6d55f-c8ec-4a25-b7a2-e216bda95129)
 
-## Project setup
+## [Strapi](https://deploy-strapi.onrender.com/admin/auth/login) 
+Email
 ```
-npm install
+user1@gmail.com
 ```
-
-### Compiles and hot-reloads for development
+Password 
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+User123;
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
